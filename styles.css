@@ -128,7 +128,7 @@
     left: 20%;
 }
 
-h3 {
+section > h3 {
     margin-left: 43%;
 }
 
@@ -142,4 +142,20 @@ h3 {
     .pink-sun{
         left: 20%;
     }
+}
+
+.nothing-h2 {
+    text-align: center;
+}
+
+.twilight {
+    padding-left: 43%;
+}
+
+.cookie {
+    padding-left: 27%;
+}
+
+h1 {
+    text-align: center;
 }
