@@ -1,10 +1,128 @@
 .pink-sun {
-    height: 600px;
-    width: 600px;
-    background-color: #ff009b;
+    height: 550px;
+    width: 550px;
+    background-color: #ff00cd;
     border-radius: 50%;
     display: inline-block;
-    margin-left: 30%;
-    margin-top: 10%;
+    position: absolute;
+    top: 12%;
+    left: 32%;
+    z-index: -1;
+    box-shadow: 0 0 100px 65px rgba(255, 0, 205, 0.7);
 }
 
+.sky {
+    background-color: #2e0044;
+    display: inline-block;
+    height: 50%;
+    width: 100%;
+    z-index: -1;
+    position: relative;
+    
+}
+
+.grid-floor {
+    background-color: #000000;
+    display: inline-block;
+    height: 50%;
+    width: 100%;
+    z-index: 2;
+}
+
+.big-star {
+    height: 10px;
+    width: 10px;
+    background-color: #FFFFFF;
+    border-radius: 50%;
+    display: inline-block;
+    position: absolute;
+}
+
+.bs-1 {
+    top: 25%;
+    left: 7%;
+}
+
+.bs-2 {
+    top: 3%;
+    left: 10%;
+}
+
+.bs-3 {
+    top: 10%;
+    left: 40%;
+}
+
+.bs-4 {
+    top: 4%;
+    right: 20%;
+}
+
+.bs-5 {
+    top: 15%;
+    right: 10%;
+}
+
+.bs-6 {
+    top: 35%;
+    right: 3%;
+}
+
+.small-star {
+    height: 5px;
+    width: 5px;
+    background-color: #FFFFFF;
+    border-radius: 50%;
+    display: inline-block;
+    position: absolute;
+}
+
+.ss-1 {
+    top: 10%;
+    left: 37%;
+}
+
+.ss-2 {
+    top: 20%;
+    right: 35%;
+}
+
+.ss-3 {
+    top: 26%;
+    right: 36%;
+}
+
+.ss-4 {
+    top: 3%;
+    right: 6%;
+}
+
+.ss-5 {
+    top: 25%;
+    left: 40%;
+}
+
+.ss-6 {
+    top: 30%;
+    left: 20%;
+}
+
+.ss-7 {
+    top: 35%;
+    left: 17%;
+}
+
+.ss-8 {
+    top: 40%;
+    right: 15%;
+}
+
+.ss-9 {
+    top: 15%;
+    right: 23%;
+}
+
+.ss-10 {
+    top: 10%;
+    left: 20%;
+}
