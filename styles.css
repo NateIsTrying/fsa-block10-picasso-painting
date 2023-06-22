@@ -27,6 +27,7 @@
     height: 50%;
     width: 100%;
     z-index: 2;
+    color:antiquewhite;
 }
 
 .big-star {
@@ -125,4 +126,20 @@
 .ss-10 {
     top: 10%;
     left: 20%;
+}
+
+h3 {
+    margin-left: 43%;
+}
+
+@media (max-width: 768px) {
+    .pink-sun{
+        left: 10%;
+    }
+}
+
+@media (min-width: 769px) and (max-width: 1024px) {
+    .pink-sun{
+        left: 20%;
+    }
 }
