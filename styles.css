@@ -154,7 +154,11 @@
 }
 
 section > h3 {
-    margin-left: 43%;
+    margin: 20px 43% 20px 41%;
+    background-color: black;
+    border: solid 3px rgba(0, 196, 247, 1);
+    border-radius: 10%;
+    padding: 10px 20px;
 }
 
 @media (max-width: 768px) {
