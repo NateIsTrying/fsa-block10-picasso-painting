@@ -13,7 +13,7 @@
 }
 
 .sky {
-    background-color: #2e0044;
+    background-color: #2f0046;
     display: inline-block;
     height: 500px;
     width: 100%;
@@ -33,18 +33,18 @@
 
 .mount1 {
     left:-5%;
-    top: 43.2%;
+    top: 43.7%;
     width: 40%;
 }
 
 .mount2 {
     right: -9%;
-    top: 23%;
+    top: 24%;
     width: 45%;
 }
 
 .grid-floor {
-    background-image: url(grid-floor.png);
+    background-image: url(grid-floor-fri.jpg);
     background-size: 100% auto;
     display: block;
     height: 45%;
