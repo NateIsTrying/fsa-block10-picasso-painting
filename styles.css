@@ -28,18 +28,18 @@
 
 .city {
     left: 29%;
-    top: 36%;
+    top: 38%;
 }
 
 .mount1 {
     left:-5%;
-    top: 43.7%;
+    top: 46%;
     width: 40%;
 }
 
 .mount2 {
     right: -9%;
-    top: 24%;
+    top: 25.5%;
     width: 45%;
 }
 
@@ -47,7 +47,7 @@
     background-image: url(grid-floor-fri.jpg);
     background-size: 100% auto;
     display: block;
-    height: 45%;
+    height: 40%;
     width: 100%;
     z-index: 2;
     color:antiquewhite;
@@ -193,4 +193,25 @@ form > input {
 
 .submit {
     margin-left: 47%;
+}
+
+.mnt-bloom {
+    height: 100px;
+    width: 400px;
+    background-color: rgba(0, 196, 247, 1);
+    border-radius: 35%;
+    display: inline-block;
+    position: absolute;
+    z-index: 1;
+    box-shadow: 0 0 100px 65px rgba(0, 196, 247, 1);
+    position: absolute;
+}
+
+.mb1 {
+    top: 92%;
+}
+
+.mb2 {
+    top: 87%;
+    right: 3%;
 }
